@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on applying reinforcement learning to various problems.
+- 📫 How to reach me: thackerhelik@gmail.com
+
 <!--
 **thackerhelik/thackerhelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
