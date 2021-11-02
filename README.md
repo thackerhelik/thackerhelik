@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-brightgreen)
+
+Hi! I am Helik Kanti Thacker. I am an R&D Engineer at Samsung Semiconductor India Research and Development. I work on the Redundancy Analysis problem. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology, Manipal. I also love travelling, watching and playing soccer, and playing board and video games in my free time.
+
+
 - 🔭 I’m currently working on applying reinforcement learning to various problems.
+
 - 📫 How to reach me: thackerhelik@gmail.com
 
 <!--
