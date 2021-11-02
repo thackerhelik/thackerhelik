@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-lightgrey)](https://thackerhelik.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helik-thacker-600937101/)
 
 Hi! I am Helik Kanti Thacker. I am an R&D Engineer at Samsung Semiconductor India Research and Development. I work on the Redundancy Analysis problem. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology, Manipal. I also love travelling, watching and playing soccer, and playing board and video games in my free time.
