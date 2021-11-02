@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-lightgrey)](https://thackerhelik.github.io/)
+[![Personal Website](https://img.shields.io/badge/?&style=for-the-badge-Personal%20Website-lightgrey)](https://thackerhelik.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helik-thacker-600937101/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/hell_hacker)
 [![Codechef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/hell_1997)
