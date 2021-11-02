@@ -14,6 +14,8 @@ I am Helik Kanti Thacker. I am an R&D Engineer at Samsung Semiconductor India Re
 
 - 📫 How to reach me:   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thackerhelik@gmail.com)
 
+[![Helik's GitHub stats](https://github-readme-stats.vercel.app/api?username=thackerhelik)](https://github.com/thackerhelik/github-readme-stats)
+
 <!--
 **thackerhelik/thackerhelik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
