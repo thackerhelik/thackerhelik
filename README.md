@@ -7,7 +7,7 @@
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hell_1997)
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@hell_hacker)
 
-I am Helik Kanti Thacker. I am an R&D Engineer at Samsung Semiconductor India Research and Development. I work on the Redundancy Analysis problem. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology, Manipal. I also love travelling, watching and playing soccer, and playing board and video games in my free time.
+I am Helik Kanti Thacker. I am an R&D Engineer at Samsung Semiconductor India Research and Development. I work on the Redundancy Analysis problem. I have completed my undergraduate studies in Computer Science and Engineering from Manipal Institute of Technology, Manipal. I used to seriously compete in programming contests, now I do it for fun and learning new algorithms and data structures. I also love travelling, watching and playing soccer, and playing board and video games in my free time.
 
 
 - 🔭 I’m currently working on applying reinforcement learning to various problems.
